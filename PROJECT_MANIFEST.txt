@@ -1,5 +1,0 @@
-CYBER RAKSHAK FINAL - GitHub repository bundle
-Main application: cyber_rakshak_final.py
-Dependencies: requirements.txt
-Secrets template: .streamlit/secrets.toml.example
-Runtime local data directory: server_data/ (ignored by Git)
